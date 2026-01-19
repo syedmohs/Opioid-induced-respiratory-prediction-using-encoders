@@ -2,7 +2,7 @@
 
 This repository implements a machine learning pipeline designed to predict **respiratory depression** using clinical data. The project employs a unique approach by converting structured electronic health record (EHR) data into natural language clinical narratives, which are then used to fine-tune specialized clinical transformer models (Encoders).
 
-> **Note on Data:** The dataset used in this project is an in-house EHMC (Englewood Health Medical Center) dataset. Due to privacy and HIPAA regulations, the raw data has been excluded from this repository.
+> **Note on Data:** The dataset used in this project is an in-house HMC (Hamad medical corporation) dataset. Due to privacy and HIPAA regulations, the raw data has been excluded from this repository.
 
 ## Project Overview
 
